@@ -141,7 +141,7 @@ def check_true():
             pass
     if(t1==t2==t3):
         print("You have won!")
-        playagain = input("Do you wish to play again? Y or N")
+        playagain = input("Do you wish to play , Bhosad Y or N")
         if playagain == 'Y':
             t7.pop()
             t7.append(t71[0])
